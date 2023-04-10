@@ -1,0 +1,12 @@
+{
+    "vetur.validation.script": false,
+    "editor.formatOnSave": true,
+    "editor.formatOnPaste": true,
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "prettier.singleQuote": true,
+    "prettier.semi": false,
+    "prettier.trailingComma": "es5",
+    "prettier.tabWidth": 2,
+    "i18n-ally.localesPaths": ["src/locales"]
+  }
+  
