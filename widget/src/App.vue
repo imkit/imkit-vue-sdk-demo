@@ -17,8 +17,8 @@ const show = ref(false)
       />
       <iframe
         v-show="show"
-        src="https://imkit-vue-sdk.web.app/"
-        class="absolute bottom-70px right-0 rounded-xl shadow-lg h-600px w-350px bg-white p-1"
+        src="https://imkit-vue-sdk.web.app/?roomId=63bfb7631a725a001fed1ba7"
+        class="absolute bottom-70px right-0 rounded-xl shadow-lg h-620px w-370px bg-white p-1"
       ></iframe>
     </div>
   </div>
